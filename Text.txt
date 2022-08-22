@@ -1,1 +1,2 @@
 HI I am working with GitHub and committing code into Gitrepo
+yes ...now i am pushing the code into GitRepo
