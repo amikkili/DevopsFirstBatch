@@ -1,1 +1,1 @@
-HI I am new commit
+HI I am first commit for the GitHub
